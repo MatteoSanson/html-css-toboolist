@@ -81,3 +81,20 @@ button {
 }
 
 /* /contenitore liste  */
+
+
+/* varie task  */
+.freccina {
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+    display: inline-block;
+    font-size: 10px;
+}
+
+.titolo {
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+}
+/* /varie task */
