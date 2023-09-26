@@ -26,6 +26,15 @@ h1 {
 main {
     background-color: #f6f8f9;
     height: 700px;
+    padding-top: 30px;
 }
-
 /* /contenitore grigio */
+
+/* container bottoni */
+.container {
+    background-color: white;
+    width: 65%;
+    height: 70px;
+    margin: 0 auto;
+}
+/* /container bottoni */
