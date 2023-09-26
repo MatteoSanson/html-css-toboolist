@@ -26,7 +26,7 @@ h1 {
 /* contenitore grigio */
 main {
     background-color: #f6f8f9;
-    height: 700px;
+    height: 800px;
     padding-top: 30px;
 }
 /* /contenitore grigio */
@@ -37,7 +37,7 @@ main {
     background-color: white;
     width: 65%;
     height: 50px;
-    margin: 0 auto;
+    margin: auto;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
@@ -67,3 +67,17 @@ button {
     border: 1px solid #d1d7db;
 }
 /* /bottoni */
+
+
+/* contenitore liste  */
+.container2 {
+    background-color: white;
+    width: 65%;
+    height: 80%;
+    margin: auto;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-top: 3px;
+}
+
+/* /contenitore liste  */
