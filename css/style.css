@@ -112,7 +112,7 @@ li {
     list-style-position: outside;
 }
 
-.element {
+.element-ok {
     display: inline-block;
     width: 15px;
     height: 15px;
@@ -120,17 +120,30 @@ li {
     border-radius: 50%;
     text-align: center;
     line-height: 15px;
-}
-
-#checked {
     border: 1px solid #2dc6ab;
     color: #2dc6ab;
 }
 
-#wrong {
+.element-no {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 15px;
     border: 1px solid #ff4444;
     color: #ff4444;
 }
+/* #checked {
+    border: 1px solid #2dc6ab;
+    color: #2dc6ab;
+} */
+
+/* #wrong {
+    border: 1px solid #ff4444;
+    color: #ff4444;
+} */
 
 .contenuto {
     font-size: 18px;
@@ -149,7 +162,7 @@ li {
     background-color: #ab5de6;
 }
 
-#editorial{
+.editorial{
     background-color: #14aaf5;
 }
 
