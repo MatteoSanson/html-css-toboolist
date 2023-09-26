@@ -1,12 +1,23 @@
 *{
     margin: 0;
-    border: 0;
     font-family: 'Roboto', sans-serif;
 }
 
 /* intestazione */
 header {
     height: 70px;
+    background-color: white;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 /* /intestazione */
