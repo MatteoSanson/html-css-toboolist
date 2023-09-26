@@ -26,7 +26,7 @@ h1 {
 /* contenitore grigio */
 main {
     background-color: #f6f8f9;
-    height: 700px;
+    height: 1000px;
     padding-top: 30px;
 }
 /* /contenitore grigio */
@@ -73,7 +73,7 @@ button {
 .container2 {
     background-color: white;
     width: 65%;
-    height: 80%;
+    height: 60%;
     margin: auto;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
