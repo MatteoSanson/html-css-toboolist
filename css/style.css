@@ -3,6 +3,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
+
 /* intestazione */
 header {
     height: 70px;
@@ -19,8 +20,8 @@ h1 {
     display: inline-block;
     vertical-align: middle;
 }
-
 /* /intestazione */
+
 
 /* contenitore grigio */
 main {
@@ -30,11 +31,39 @@ main {
 }
 /* /contenitore grigio */
 
+
 /* container bottoni */
 .container {
     background-color: white;
     width: 65%;
-    height: 70px;
+    height: 50px;
     margin: 0 auto;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 /* /container bottoni */
+
+
+/* bottoni */
+button {
+    display: inline-block;
+    width: 85px;
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.azul {
+    background-color: #14aaf5;
+    color: white;
+    margin-left: 45px;
+    border: 1px solid #14aaf5;
+}
+
+.branco {
+    background-color: white;
+    color: #d1d7db;
+    margin-left: 10px;
+    border: 1px solid #d1d7db;
+}
+/* /bottoni */
