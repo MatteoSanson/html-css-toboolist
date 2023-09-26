@@ -98,3 +98,66 @@ button {
     display: inline-block;
 }
 /* /varie task */
+
+
+/* elenchi  */
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 12px;
+}
+
+li {
+    width: 700px;
+    list-style-position: outside;
+}
+
+.element {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 15px;
+}
+
+#checked {
+    border: 1px solid #2dc6ab;
+    color: #2dc6ab;
+}
+
+#wrong {
+    border: 1px solid #ff4444;
+    color: #ff4444;
+}
+
+.contenuto {
+    font-size: 18px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.pulsante {
+    display: inline-block;
+    color: white;
+    border-radius: 15px;
+    border: none;
+}
+
+#goals {
+    background-color: #ab5de6;
+}
+
+#editorial{
+    background-color: #14aaf5;
+}
+
+#recruiting {
+    background-color: #2cc6ab;
+}
+
+#mobile {
+    background-color: #ff9b00;
+}
+/* /elenchi  */
