@@ -21,3 +21,11 @@ h1 {
 }
 
 /* /intestazione */
+
+/* contenitore grigio */
+main {
+    background-color: #f6f8f9;
+    height: 700px;
+}
+
+/* /contenitore grigio */
