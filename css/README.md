@@ -1,1 +1,1 @@
-#L'esercizio prevede di ricreare con html e css una TO DO LIST come da immagine sottostante
+# L'esercizio prevede di ricreare con html e css una TO DO LIST come da immagine sottostante
